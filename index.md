@@ -1,9 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>My Website</title>
-</head>
-<body>
-  <h1>Hello from GitHub Pages!</h1>
-</body>
-</html>
+---
+layout: default
+title: Home
+---
+
+# Welcome to my website
+
+This site is powered by GitHub Pages + Jekyll.
